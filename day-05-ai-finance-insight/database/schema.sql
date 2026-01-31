@@ -1,0 +1,1 @@
+CREATE TABLE expenses (id INTEGER PRIMARY KEY, amount INTEGER, category TEXT);
