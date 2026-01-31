@@ -1,0 +1,1 @@
+CREATE TABLE ideas (id INTEGER PRIMARY KEY, description TEXT, score INTEGER);
